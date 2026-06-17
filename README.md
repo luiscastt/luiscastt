@@ -12,8 +12,6 @@
 ### 👨‍💻 Sobre Mim
 Desenvolvedor focado em construir interfaces de alta performance e experiências de usuário memoráveis. Tenho experiência sólida com o ecossistema **React** e **TypeScript**, priorizando código limpo, componentização e escalabilidade.
 
-- 🔭 Atualmente trabalhando no projeto **[Casamento Gustavo & Thaina](https://github.com/luiscastt/casamento-gustavoethaina)**.
-- ⚡ Curiosidade: Recentemente "venci" alguns dos conflitos de merge mais cabulosos do Git!
 - 🎯 Foco: Arquitetura de software e automação de UI.
 
 ---
@@ -25,14 +23,6 @@ Desenvolvedor focado em construir interfaces de alta performance e experiências
 | **Frontend** | React, Next.js, TypeScript, Tailwind CSS |
 | **Backend** | Node.js (Estudando / Integrando) |
 | **DevOps & Ferramentas** | Git, GitHub Actions, VS Code, Figma |
-
----
-
-### 🏆 Projeto em Destaque
-**[Landing Page de Casamento]**
-Um projeto completo de RSVP e celebração, utilizando React e TypeScript. 
-- **Desafio:** Implementação de seções dinâmicas (Versículos e UI customizada).
-- **Techs:** React Hooks, Styled Components/Tailwind, Responsive Design.
 
 ---
 
