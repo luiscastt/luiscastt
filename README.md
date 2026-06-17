@@ -4,15 +4,20 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
 ### 👨‍💻 Sobre Mim
-Desenvolvedor focado em construir interfaces de alta performance e experiências de usuário memoráveis. Tenho experiência sólida com o ecossistema **React** e **TypeScript**, priorizando código limpo, componentização e escalabilidade.
 
-- 🎯 Foco: Arquitetura de software e automação de UI.
+Desenvolvedor e entusiasta de tecnologia focado em construir interfaces de alta performance, experiências de usuário memoráveis e soluções robustas de infraestrutura. Tenho experiência sólida com o ecossistema **React** e **TypeScript**, sempre priorizando código limpo, arquitetura escalável e automação.
+
+Além do desenvolvimento frontend, possuo forte interesse e engajamento em administração de sistemas, redes e virtualização, buscando sempre integrar práticas eficientes de desenvolvimento com infraestruturas modernas e seguras.
+
+- 🎯 **Foco atual:** Arquitetura de software, automação de UI e gerenciamento de infraestrutura/containers.
 
 ---
 
@@ -20,26 +25,29 @@ Desenvolvedor focado em construir interfaces de alta performance e experiências
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Frontend** | React, Next.js, TypeScript, Tailwind CSS |
-| **Backend** | Node.js (Estudando / Integrando) |
-| **DevOps & Ferramentas** | Git, GitHub Actions, VS Code, Figma |
+| **Frontend** | React, Next.js, TypeScript, Tailwind CSS, HTML5, CSS3 |
+| **Backend & Banco de Dados** | Node.js (Estudando / Integrando), REST APIs |
+| **Infraestrutura & DevOps** | Docker, Linux (Debian), Proxmox, Git, GitHub Actions |
+| **Ferramentas de Design** | Figma |
 
 ---
 
 ### 📊 Estatísticas e Atividade
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiscastt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiscastt&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiscastt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Luís" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiscastt&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas" />
 </p>
 
 ---
 
 ### 📬 Vamos nos conectar?
+
 <p align="left">
   <a href="https://www.linkedin.com/in/luis-castilho-566b2a359/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:bfluis8@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
