@@ -13,7 +13,7 @@
 
 ### 👨‍💻 Sobre Mim
 
-Desenvolvedor e entusiasta de tecnologia focado em construir interfaces de alta performance, experiências de usuário memoráveis e soluções robustas de infraestrutura. Tenho experiência sólida com o ecossistema **React** e **TypeScript**, sempre priorizando código limpo, arquitetura escalável e automação.
+Entusiasta de tecnologia focado em construir interfaces de alta performance, experiências de usuário memoráveis e soluções robustas de infraestrutura. Tenho experiência sólida com o ecossistema **React** e **TypeScript**, sempre priorizando código limpo, arquitetura escalável e automação.
 
 Além do desenvolvimento frontend, possuo forte interesse e engajamento em administração de sistemas, redes e virtualização, buscando sempre integrar práticas eficientes de desenvolvimento com infraestruturas modernas e seguras.
 
