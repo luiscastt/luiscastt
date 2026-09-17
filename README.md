@@ -32,10 +32,14 @@ Além do desenvolvimento frontend, possuo forte interesse e engajamento em admin
 
 ---
 
+---
+
 ### 📊 Estatísticas e Atividade
 
 <p align="center">
-  <img src="https://vercel.app" alt="Gráfico de Atividade do GitHub" width="100%" />
+  <img src="https://shields.io" alt="Commits Totais" />
+  <img src="https://shields.io" alt="Tamanho do Repositório" />
+  <img src="https://shields.io" alt="Seguidores" />
 </p>
 
 ---
