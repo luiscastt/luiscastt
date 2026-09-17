@@ -1,12 +1,12 @@
 # Olá, eu sou o Luís Castilho 👋
 
 <p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
 </p>
 
 ---
@@ -32,14 +32,14 @@ Além do desenvolvimento frontend, possuo forte interesse e engajamento em admin
 
 ---
 
----
-
 ### 📊 Estatísticas e Atividade
 
 <p align="center">
-  <img src="https://shields.io" alt="Commits Totais" />
-  <img src="https://shields.io" alt="Tamanho do Repositório" />
-  <img src="https://shields.io" alt="Seguidores" />
+  <!-- Estatísticas Gerais carregadas direto do repositório -->
+  <img height="160em" src="./profile-stats.svg" alt="Estatísticas do GitHub" />
+  
+  <!-- Linguagens Mais Usadas carregadas direto do repositório -->
+  <img height="160em" src="./profile-langs.svg" alt="Linguagens mais usadas" />
 </p>
 
 ---
@@ -47,10 +47,10 @@ Além do desenvolvimento frontend, possuo forte interesse e engajamento em admin
 ### 📬 Vamos nos conectar?
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/luis-castilho-566b2a359/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
   </a>
   <a href="mailto:bfluis8@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://shields.io" alt="Email" />
   </a>
 </p>
