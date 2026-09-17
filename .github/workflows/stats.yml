@@ -1,0 +1,37 @@
+name: Gerar Estatísticas do Perfil
+
+on:
+  schedule:
+    # Atualiza automaticamente a cada 12 horas
+    - cron: '0 */12 * * *'
+  workflow_dispatch: # Permite rodar manualmente quando quiser
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar código
+        uses: actions/checkout@v4
+
+      - name: Gerar os cards de estatísticas
+        uses: stats-organization/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: "username=luiscastt&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"
+          path: profile-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Gerar o card de linguagens
+        uses: stats-organization/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: "username=luiscastt&layout=compact&langs_count=7&theme=tokyonight"
+          path: profile-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Salvar imagens no repositório
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add profile-stats.svg profile-langs.svg
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Atualizando estatísticas do perfil [skip ci]" && git push)
