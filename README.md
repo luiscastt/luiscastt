@@ -35,11 +35,7 @@ Além do desenvolvimento frontend, possuo forte interesse e engajamento em admin
 ### 📊 Estatísticas e Atividade
 
 <p align="center">
-  <!-- Estatísticas Gerais (Servidor Novo e Atualizado) -->
-  <img height="160em" src="https://vercel.app" alt="Estatísticas do GitHub" />
-  
-  <!-- Linguagens Mais Usadas (Servidor Novo e Atualizado) -->
-  <img height="160em" src="https://vercel.app" alt="Linguagens mais usadas" />
+  <img src="https://vercel.app" alt="Gráfico de Atividade do GitHub" width="100%" />
 </p>
 
 ---
